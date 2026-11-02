@@ -1,0 +1,3 @@
+nltk
+tflearn
+tensorflow==2.21.0
